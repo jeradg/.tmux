@@ -2,7 +2,7 @@
 #
 # Run to add to term db:
 #
-#   tic -x tmux.terminfo
+#   tic -x ~/.tmux/tmux.terminfo
 #
 # Then:
 #
