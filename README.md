@@ -3,7 +3,7 @@ dottmux
 
 Installation:
 
-    git clone git://github.com/jeradg/dottmux.git ~/.tmux
+    git clone git@github.com:jeradg/dottmux.git ~/.tmux
 
 Create symlink to main conf file:
 
