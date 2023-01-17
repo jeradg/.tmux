@@ -14,4 +14,4 @@
     ```
     ln -s ~/.tmux/env/linux.conf ~/.tmux/env.conf
     ```
-4. If you haven't done so already, set up the `tmux-256color` TERMINFO profile to add italics support to tmux. Follow the instructions in [tmux.terminfo](https://github.com/jeradg/.tmux/blob/main/tmux.terminfo).
+4. Run `install-terminfo.sh` to set up the `tmux-256color` TERMINFO profile to add italics support to tmux.
