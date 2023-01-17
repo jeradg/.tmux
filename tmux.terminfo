@@ -1,12 +1,7 @@
 # A screen-256color based TERMINFO that adds the escape sequences for italic.
 #
-# Run to add to term db:
-#
-#   tic -x ~/.tmux/tmux.terminfo
-#
-# Then:
-#
-#   set -g default-terminal "tmux-256-color"
+# To enable, run ./install-terminfo.sh
+
 tmux|tmux terminal multiplexer,
   ritm=\E[23m, rmso=\E[27m, sitm=\E[3m, smso=\E[7m, Ms@,
   use=xterm, use=screen,
